@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+p {
+    background-color: salmon;
+    font-family: verdana;
+}
+
+#two {
+ color: blue;
+ font-size: 40px;
+}
+
+#four {
+    background-color: greenyellow;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.three {
+    font-size: 30px;
+}

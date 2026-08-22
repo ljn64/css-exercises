@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.button {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.click {
+    background-color: black;
+    color: white;
+}
+
+.no_click {
+    background-color: yellow;
+}
